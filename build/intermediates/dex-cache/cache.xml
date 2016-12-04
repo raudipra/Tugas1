@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/raudi/Downloads/Tugas1/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="/Users/raudi/Downloads/Tugas1/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_830e61d1a6fa7ae7599be857f003136c4cb719fa/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/raudi/Downloads/Tugas1/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="/Users/raudi/Downloads/Tugas1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.0.0_a84468dc26d393c8af53fad2920179b27e9d27ae/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/raudi/Downloads/Tugas1/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="/Users/raudi/Downloads/Tugas1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.0.0_d6c3937ffb64ebc0c66d880b566b7f70ffe9ca15/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/raudi/Downloads/Tugas1/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="/Users/raudi/Downloads/Tugas1/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_8d7b2ecb8eba008238901ad0c70e19cd87c2e6ae/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/raudi/Downloads/Tugas1/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="/Users/raudi/Downloads/Tugas1/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_8d79ad931ed2a5452427fc2d1bd9f9c9c580810e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/raudi/Downloads/Tugas1/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/Users/raudi/Downloads/Tugas1/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_038ddc886c90931098e63aaa85f9a7172aba531f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/raudi/Downloads/Tugas1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="/Users/raudi/Downloads/Tugas1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-8.4.0_66c65eeb2db51385668bc70ac78d77f1d92e6bbf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/raudi/Downloads/Tugas1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="/Users/raudi/Downloads/Tugas1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.0.0_1177a8acaf008a5d6fd7057b2a33ab43a79582f3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/raudi/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.0/support-annotations-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="/Users/raudi/Downloads/Tugas1/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.0.0_8f5084d5b39192ee185fb08604972582a450547c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/raudi/Downloads/Tugas1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="65d086ee9daaf87b5af62ad24471edafa433354c">
+        <dex dex="/Users/raudi/Downloads/Tugas1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-appindexing-8.4.0_0b12672e729d6590b450d5aefb2bc9c2e3cdb039/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/raudi/Downloads/Tugas1/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="/Users/raudi/Downloads/Tugas1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.0.0_5a2f803f8abe60f89fe2ed31162f198a7ee47e8a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/raudi/Downloads/Tugas1/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d9339dea610b50ae0a684d80068a1d4995f06cad">
+        <dex dex="/Users/raudi/Downloads/Tugas1/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_72c19422e5d126ab777d77fa2e3ef6426c719332/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/raudi/Downloads/Tugas1/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="/Users/raudi/Downloads/Tugas1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.0.0_f8593cd70db29c96cb0c4e06298ad1ba427bdfb1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/raudi/Downloads/Tugas1/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="/Users/raudi/Downloads/Tugas1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.0.0_6bf5390090e02b7163db6b02ab43c964a59a0f84/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/raudi/Downloads/Tugas1/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="/Users/raudi/Downloads/Tugas1/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_1e4abb9ea5f9b3e57c6379cc73ebb4d5889c38bb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/raudi/Downloads/Tugas1/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="/Users/raudi/Downloads/Tugas1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.0.0_2c5ad5be6017b2ce1866776fd95340b12f907a67/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/raudi/Downloads/Tugas1/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/raudi/Downloads/Tugas1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.0.0_f97487f246c352b014dc75569d1e65502030f7b3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/raudi/Downloads/Tugas1/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1e4746ca1a75b3792bd0d189c4ffb6725f775916">
+        <dex dex="/Users/raudi/Downloads/Tugas1/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_8e3420d1a30036dd5b3b25a5708b27d718d80ca4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/raudi/Downloads/Tugas1/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="/Users/raudi/Downloads/Tugas1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.0.0_3692d5fe44fd81816f23ec4db33364b3523fd6ab/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/raudi/Downloads/Tugas1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
+        <dex dex="/Users/raudi/Downloads/Tugas1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-8.4.0_e6828e8e8b6ea7505b2e2c01b9bcb958596abdb1/classes.dex" />
+    </item>
+
+</items>
